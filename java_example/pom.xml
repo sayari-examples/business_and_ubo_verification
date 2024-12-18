@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.sayari</groupId>
-    <artifactId>citi-example</artifactId>
+    <artifactId>business-and-ubo-verification</artifactId>
     <version>1.0.0</version>
-    <name>Citi Example</name>
+    <name>Business and UBO Verification Example</name>
 
     <properties>
         <maven.compiler.target>11</maven.compiler.target>

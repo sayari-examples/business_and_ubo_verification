@@ -37,7 +37,7 @@ mvn clean package
 ```
 export SAYARI_CLIENT_ID=abc
 export SAYARI_CLIENT_SECRET=zyx
-java -cp target/citi-example-1.0.0-jar-with-dependencies.jar com.sayari.BusinessAndUboVerification --name "CH2M HILL CONSTRUCTORS, INC." --country "GBR"
+java -cp target/business-and-ubo-verification-1.0.0-jar-with-dependencies.jar com.sayari.BusinessAndUboVerification --name "CH2M HILL CONSTRUCTORS, INC." --country "GBR"
 ```
 
 
